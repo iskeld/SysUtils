@@ -8,7 +8,7 @@ using EldSharp.SysUtils.Impl;
 
 namespace Sandbox
 {
-    public class Class1
+    public class Runner
     {
         public static void Main(string[] args)
         {
