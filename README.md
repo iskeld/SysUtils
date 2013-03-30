@@ -1,4 +1,4 @@
 SysUtils
 ========
 
-A set of system magament-related functions (get uptime, reboot, shutdown, controll remote desktop, etc.).
+Simple, system management-related C# library (get uptime, reboot, shutdown, controll remote desktop, etc.).
