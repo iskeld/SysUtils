@@ -18,7 +18,9 @@ namespace Sandbox
             {
                 Console.WriteLine(pi.Name + ", " + pi.Owner);
             }
+            
             Console.ReadLine();
+            manager.Reboot();
         }
     }
 }

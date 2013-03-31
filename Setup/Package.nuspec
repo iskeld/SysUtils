@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EldSharp.SysUtils</id>
+    <version>1.0.0</version>
+    <title>EldSharp.SysUtils</title>
+    <authors>Maciej Woźniak</authors>
+    <description>
+      Simple, system management-related C# library (get uptime, reboot, shutdown, remote desktop control, etc.).
+    </description>
+    <language>en-US</language>
+    <projectUrl>https://nuget.org/packages/SysUtils.NuGet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <copyright>Copyright 2013</copyright>
+    <dependencies />
+    <references />
+    <tags />
+  </metadata>
+  <files>
+    <file src="..\Output\Release\" target="lib\net40" />
+  </files>
+</package>

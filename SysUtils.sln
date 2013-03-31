@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impl", "Core\Impl\Impl.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Testing\Sandbox\Sandbox.csproj", "{BB51A4D7-1F54-4CC8-928A-738C47FA623B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Setup", "Setup", "{E227B4F5-632D-423F-9E3D-DAC7A083417E}"
+	ProjectSection(SolutionItems) = preProject
+		Setup\Package.nuspec = Setup\Package.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
